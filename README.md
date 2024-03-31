@@ -1,8 +1,8 @@
 ### Hi there 👋 this is Aghanim
 
-- 🔭 currentely building up AutoBullet
+- 🔭 main goal is building up AutoBullet, where bullets fly automatically!
 - 🌱 currently learning Pine code to create Algo trading bots.
-- 🤔 looking for help with new businesses with their social media back links
+- 🤔 looking for help new businesses with their social media back links
 - 📫 How to reach me: [leave a message on linkedin](https://www.linkedin.com/in/aydinghorbani/) or [connect via thread](https://www.threads.net/@aydingorbany)
 
 <!--
